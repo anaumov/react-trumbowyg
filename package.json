@@ -19,9 +19,7 @@
   "author": "RD17",
   "license": "MIT",
   "dependencies": {
-    "trumbowyg": "^2.3.0"
-  },
-  "peerDependencies": {
+    "trumbowyg": "^2.3.0",
     "react": "^15.3.2 || ^16.0.0",
     "react-dom": "^15.3.2 || ^16.0.0"
   },
